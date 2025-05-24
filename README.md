@@ -2,9 +2,6 @@
 - 👀 I have a strong passion for Web development
 - 🌱 I’m currently learning three.js
 - 💞️ I’m looking to collaborate on front-end web development 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 Raginipatel17/Raginipatel17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
