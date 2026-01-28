@@ -1,71 +1,58 @@
-👋 Hi, I’m Ragini Kumari
+Hi, I’m Ragini Kumari 👋
 
-🎓 BSc Computer Science Graduate from Delhi University
-💻 Front-End Developer | JavaScript | React | Angular
-🎨 I love building UI, solving problems, and turning ideas into web apps.
+🎓 BSc Computer Science Graduate (Delhi University)
+💻 Front-End Developer who loves building clean, useful web apps
+🎨 Interested in UI design, problem solving, and learning by projects
 
-🚀 What I Do
+🚀 About Me
 
-Build responsive web applications
+I enjoy turning ideas into small web applications that solve real problems.
+I practice by building tools like trackers, notes apps, organizers, and UI demos.
 
-Work with APIs and real data
+I focus on:
 
-Create small tools that solve real problems
+Simple and clean user interfaces
 
-Practice clean UI and user-friendly design
+Working with APIs and real data
 
-Learn by building projects
+Writing understandable code
+
+Improving step by step by building projects
 
 🛠️ Tech Stack
 
-Frontend:
-HTML, CSS, JavaScript, React.js, Angular, Tailwind CSS
+Frontend
+HTML • CSS • JavaScript • React.js • Angular • Tailwind CSS
 
-Other Skills:
-TypeScript, Python (basic), Git, GitHub, Google Apps Script, Google Sheets
+Other
+TypeScript • Python (basic) • Git • GitHub • Google Apps Script • Google Sheets
 
-📂 My Projects
+📌 Projects I Built
 
-Here are some projects I built to practice real development:
+📁 File-Organiser – Automatically sorts files into folders
 
-📁 File-Organiser
+📝 API Integrated Notes App – Notes app using API for storing data
 
-Tool that automatically sorts files into folders to reduce clutter.
+🏋️ Workout / Health Tracker – Track workouts and activities
 
-📝 API Integrated Notes App
+💬 Chat App UI – Messaging interface design
 
-Notes app that stores and fetches data using an API.
+🎨 Canva UI Clone – Practice of layout and design tool interface
 
-🏋️ Workout Tracker / Health Tracker
+✅ To-Do Lists – Task manager with add/remove features
 
-Apps to log workouts and track health activities.
+🌐 Demo Sites & Live Links – Collection of my deployed works
 
-💬 Chat App
+🌱 Currently Learning
 
-Simple chat interface UI to understand messaging layouts.
+Deeper JavaScript concepts
 
-🎨 Canva Clone (UI)
+Better UI/UX practices
 
-Design tool interface inspired by Canva to practice layouts and styling.
-
-✅ To-Do Lists
-
-Task manager with add/remove features and clean UI.
-
-🌐 Demo Sites
-
-Collection of demo websites and live links of my work.
-
-🎯 What I’m Learning Now
-
-Better JavaScript concepts
-
-Building real-world projects
-
-Improving UI/UX
-
-Working with APIs and data
+Building more real-world style projects
 
 📫 Connect With Me
 
 GitHub: https://github.com/Raginipatel17
+
+⭐ I believe the best way to learn development is by building projects consistently.
